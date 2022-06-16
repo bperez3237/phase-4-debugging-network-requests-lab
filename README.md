@@ -64,10 +64,16 @@ developing your own process.
 
   - How I debugged:
 
+    added show method to routes, and added show method to the toy controller
+
 - Update the number of likes for a toy
 
   - How I debugged:
 
+  added `render json: toy` to the toys controller
+
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+
+  added delete to route
